@@ -15,3 +15,5 @@ Here are some of the thing we've used:
 [Here is our repository.](https://github.com/Kevinhcross96/phase-0-gps-1)
 
 ![Here we are working together!](https://github.com/Kevinhcross96/phase-0-gps-1/blob/newbranch/gps_screenshot.PNG?raw=true)
+
+Now we're gonna make conflict. :D
